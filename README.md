@@ -1,2 +1,2 @@
 # AppMvcBasica
-Projeo básico de um app MVC Core
+Projeto básico de um app MVC Core
